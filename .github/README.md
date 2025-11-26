@@ -1,5 +1,5 @@
 # BuniMart API
-This is the BuniMart API that should be used to route requests for products, categories, and images (TBA), published on a seperate repository to not publish the whole source code. 
+This is the BuniMart API that should be used to route requests for products, categories, and images, published on a seperate repository to not publish the whole source code. 
 
 ## Contributions
 ### If you do not know how to use GitHub or write products in JSON:
