@@ -1,22 +1,7 @@
-[
-  {
-    "slug": "stationery",
-    "name": "Stationery"
-  },
-  {
-    "slug": "used-items",
-    "name": "Used Items"
-  },
-  {
-    "slug": "drinks",
-    "name": "Drinks"
-  },
-  {
-    "slug": "exclusive-items",
-    "name": "Exclusive Items"
-  },
-  {
-    "slug": "reward",
-    "name": "Reward"
-  }
-]
+{ 
+  "stationery": "Stationery",
+  "used-items": "Used Items",
+  "drinks": "Drinks",
+  "exclusive-items": "Exclusive Items",
+  "reward": "Reward"
+}
