@@ -465,7 +465,7 @@
     ],
     "returnPolicy": "0-day return for unused items",
     "minimumOrderQuantity": 1,
-    "images": ["/answers.jpg"],
-    "thumbnail": "/answers.jpg"
+    "images": ["/answers.png "],
+    "thumbnail": "/answers.png"
   }
 ]
