@@ -1,6 +1,5 @@
-[
+let a = [
   {
-    "id": 1,
     "title": "Casio Scientific Calculator FX-570EX",
     "description": "Reliable used scientific calculator suitable for secondary and college students. Fully functional with minor cosmetic wear.",
     "category": ["stationery"],
@@ -12,7 +11,11 @@
     "brand": "Casio",
     "sku": "STA-CAS-CAL-001",
     "weight": 200,
-    "dimensions": { "width": 7, "height": 16, "depth": 1.5 },
+    "dimensions": {
+      "width": 7,
+      "height": 16,
+      "depth": 1.5
+    },
     "warrantyInformation": "1 month warranty",
     "shippingInformation": "Ships in 3-5 business days",
     "availabilityStatus": "In Stock",
@@ -31,7 +34,6 @@
     "thumbnail": "/calc.png"
   },
   {
-    "id": 2,
     "title": "A4 Ring Binder File (Used)",
     "description": "Durable used binder in good condition, perfect for organizing class notes and assignments.",
     "category": ["stationery"],
@@ -43,7 +45,11 @@
     "brand": "No Brand",
     "sku": "STA-FIL-BIN-002",
     "weight": 300,
-    "dimensions": { "width": 25, "height": 32, "depth": 4 },
+    "dimensions": {
+      "width": 25,
+      "height": 32,
+      "depth": 4
+    },
     "warrantyInformation": "No warranty",
     "shippingInformation": "Ships in 3 days",
     "availabilityStatus": "In Stock",
@@ -62,7 +68,6 @@
     "thumbnail": "/binder.jpg"
   },
   {
-    "id": 3,
     "title": "Used Mechanical Pencil Set",
     "description": "Set of 14 mechanical pencils in working condition, suitable for everyday school use.",
     "category": ["stationery"],
@@ -74,7 +79,11 @@
     "brand": "Pentel",
     "sku": "STA-PEN-MEC-003",
     "weight": 50,
-    "dimensions": { "width": 5, "height": 15, "depth": 1 },
+    "dimensions": {
+      "width": 5,
+      "height": 15,
+      "depth": 1
+    },
     "warrantyInformation": "No warranty",
     "shippingInformation": "Ships in 2-4 business days",
     "availabilityStatus": "In Stock",
@@ -93,7 +102,6 @@
     "thumbnail": "/mechpencils.jpg"
   },
   {
-    "id": 4,
     "title": "Used School Bag (Standard Size)",
     "description": "Gently used school bag with spacious compartments. Suitable for primary or secondary school students.",
     "category": ["used-items"],
@@ -105,7 +113,11 @@
     "brand": "Nike",
     "sku": "USE-BAG-SCH-004",
     "weight": 700,
-    "dimensions": { "width": 30, "height": 45, "depth": 15 },
+    "dimensions": {
+      "width": 30,
+      "height": 45,
+      "depth": 15
+    },
     "warrantyInformation": "No warranty",
     "shippingInformation": "Ships in 5 days",
     "availabilityStatus": "Low Stock",
@@ -124,7 +136,6 @@
     "thumbnail": "/schoolbag.jpg"
   },
   {
-    "id": 5,
     "title": "Used Water Bottle 500ml",
     "description": "Reusable 500ml water bottle, cleaned and sanitized. Ideal for school use.",
     "category": ["used-items"],
@@ -136,7 +147,11 @@
     "brand": "Tupperware",
     "sku": "USE-BOT-WAT-005",
     "weight": 120,
-    "dimensions": { "width": 7, "height": 20, "depth": 7 },
+    "dimensions": {
+      "width": 7,
+      "height": 20,
+      "depth": 7
+    },
     "warrantyInformation": "No warranty",
     "shippingInformation": "Ships in 3-5 business days",
     "availabilityStatus": "In Stock",
@@ -155,7 +170,6 @@
     "thumbnail": "/waterbottle.jpg"
   },
   {
-    "id": 6,
     "title": "Half-Used Faber Castell Pen",
     "description": "Enjoy the smoothest performance and a stylish new look, this isn’t just a pen - it’s your vibe. For the cheap price of only 199. Sourced from 'journalists' in class.",
     "category": ["stationery", "used-items"],
@@ -167,7 +181,11 @@
     "brand": "Faber-Castell",
     "sku": "STA-CAS-CAL-001",
     "weight": 50,
-    "dimensions": { "width": 7, "height": 25, "depth": 1.5 },
+    "dimensions": {
+      "width": 7,
+      "height": 25,
+      "depth": 1.5
+    },
     "warrantyInformation": "1 month warranty",
     "shippingInformation": "Ships in 6-7 business days",
     "availabilityStatus": "In Stock",
@@ -186,7 +204,6 @@
     "thumbnail": "/pen.jpg"
   },
   {
-    "id": 7,
     "title": "Mixue Lemonade Drink",
     "description": "Mixue Lemonade originated from a passion for crafting the perfect citrus drink. The journey began with a vision to create a beverage that goes beyond the ordinary. For all 80% and above scorers, they can earn a Mixue Lemonade, free of charge!",
     "category": ["drinks"],
@@ -197,7 +214,11 @@
     "tags": ["drinks", "reward"],
     "brand": "Mixue",
     "weight": 300,
-    "dimensions": { "width": 7, "height": 19, "depth": 1.5 },
+    "dimensions": {
+      "width": 7,
+      "height": 19,
+      "depth": 1.5
+    },
     "warrantyInformation": "No warranty",
     "shippingInformation": "Immediate shipping",
     "availabilityStatus": "Out of Stock, check back for Mid-Years",
@@ -217,7 +238,6 @@
     "thumbnail": "/mixue.jpg"
   },
   {
-    "id": 8,
     "title": "Artline 500A Whiteboard Marker Medium Point 6 Colours",
     "description": "Writing on the whiteboard has never been easier! With the Artline 500A Whiteboard Marker Medium Point, you can now answer the teacher's questions on the board without borrowing their marker and making them annoyed! A set of 6 markers for only RM20.",
     "category": ["stationery"],
@@ -228,7 +248,11 @@
     "tags": "stationery",
     "brand": "Artline",
     "weight": 200,
-    "dimensions": { "width": 7, "height": 19, "depth": 1.5 },
+    "dimensions": {
+      "width": 7,
+      "height": 19,
+      "depth": 1.5
+    },
     "warrantyInformation": "No warranty",
     "shippingInformation": "Shipping in 6-7 working days",
     "availabilityStatus": "In Stock",
@@ -247,7 +271,6 @@
     "thumbnail": "/marker.jpg"
   },
   {
-    "id": 9,
     "title": "Exclusive Wesleyan A5 Exercise Book",
     "description": "An A5 Exercise Book to do your homework and write notes in!",
     "category": ["stationery", "exclusive-items"],
@@ -258,7 +281,11 @@
     "tags": "stationery",
     "brand": "Wesley Exclusive",
     "weight": 50,
-    "dimensions": { "width": 7, "height": 19, "depth": 1.5 },
+    "dimensions": {
+      "width": 7,
+      "height": 19,
+      "depth": 1.5
+    },
     "warrantyInformation": "No warranty",
     "shippingInformation": "Shipping in 2-3 working days",
     "availabilityStatus": "In Stock",
@@ -277,7 +304,6 @@
     "thumbnail": "/exercisebook.jpg"
   },
   {
-    "id": 10,
     "title": "Elroy's Exclusive Drumsticks",
     "description": "Elroy's Exclusive drum sticks were molded under strict quality control standards from carefully selected wood materials and is renowned for their consistent high quality. Get this premium and exclusive drumsticks for only RM 1999!",
     "category": ["exclusive-items"],
@@ -307,7 +333,6 @@
     "thumbnail": "/drumsticks.jpg"
   },
   {
-    "id": 11,
     "title": "BuniMart Optic Glasses",
     "description": "BuniMart Optic Glasses are glasses designed for ease of use and all-day wearability. Made by the renouned Ms. Buni, and crafted from titanium.",
     "category": ["exclusive-items"],
@@ -344,7 +369,6 @@
     "thumbnail": "/glasses.jpg"
   },
   {
-    "id": 12,
     "title": "Save BuniMart!",
     "description": "Dawn Lim Sim Zheng of 10 Genesis has hacked BuniMart. RM 99999999999999999999999999999999999999999999999999 (not too overpriced for BuniMart) to get back BuniMart or else it will be destroyed forever. This message will self-destruct in 3 days.",
     "category": [
@@ -378,7 +402,6 @@
     "thumbnail": "/hack.jpg"
   },
   {
-    "id": 13,
     "title": "A Single Piece of Graph Paper",
     "description": "A single piece of standard A4 graph paper suitable for math, geometry and geometry dash sketches.",
     "category": ["stationery"],
@@ -406,7 +429,6 @@
     "thumbnail": "/graphpaper.jpg"
   },
   {
-    "id": 14,
     "title": "Pack of a 100 individual pieces of eraser dust",
     "description": "A pile of carefully sculpted eraser dust, coloured with just the right hue and shade, and easily falls apart the second you touch it. Perfect for showing your peers, parents and teachers how hardworking you are.",
     "category": ["stationery", "used-items"],
@@ -441,7 +463,6 @@
     "thumbnail": "/eraserdust.jpg"
   },
   {
-    "id": 15,
     "title": "Math Homework Answers",
     "description": "Contains the answers to all the homework you ever recieved in high school. Will be delivered after you leave school on graduation day.",
     "category": ["exclusive-items"],
@@ -449,7 +470,7 @@
     "discountPercentage": 0,
     "rating": 5,
     "stock": 1,
-    "tags": ["exclusive-items"],
+    "tags": ["stationery"],
     "brand": "BuniMart Exclusive",
     "warrantyInformation": "No warranty (consumable item)",
     "shippingInformation": "In-school delivery",
@@ -469,3 +490,8 @@
     "thumbnail": "/answers.jpg"
   }
 ]
+const itemsWithId = a.map((item, index) => ({
+  
+  id: index + 1,...item
+}));
+console.log(JSON.stringify(itemsWithId))
