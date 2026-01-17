@@ -500,7 +500,42 @@
     ],
     "returnPolicy": "0-day return for unused items",
     "minimumOrderQuantity": 1,
-    "images": ["/fan.jpg "],
-    "thumbnail": "/fan.jpg"
+    "images": ["/fan.jpeg "],
+    "thumbnail": "/fan.jpeg"
+  },
+  {
+    "id": 17,
+    "title": "BuniMart Binoculars",
+    "description": "BuniMart is launching its very own binoculars! Equipped with 5x, 10x and 50x zoom, you will never struggle with looking at the whiteboard again! At only 899, you will remove the worry of forgetting your glasses!",
+    "category": ["exclusive-items"],
+    "price": 899.99,
+    "discountPercentage": 20,
+    "rating": 4.5,
+    "stock": 10,
+    "tags": ["exclusive-items"],
+    "brand": "BuniMart Exclusive",
+    "warrantyInformation": "1 month warranty",
+    "shippingInformation": "Delivery to 7 Joshua (relocated 8E)",
+    "availabilityStatus": "In Stock",
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "These binoculars are amazing and worked perfectly! There were always people calling me blind, but then now with these glasses, I can see perfectly! Thanks BuniMart!",
+        "date": "2026-01-04T018:41:02.053Z",
+        "reviewerName": "Boba Zhao",
+        "reviewerEmail": "boba.z@gmail.com"
+      },
+      {
+        "rating": 4,
+        "comment": "These binoculars were made with amazing quality and cutting edge technology, but then does not solve the problem of forgetfulness. One time, I forgot both my glasses and binoculars.",
+        "date": "2026-01-17T018:41:02.053Z",
+        "reviewerName": "Isaac Foo",
+        "reviewerEmail": "isaac.f@gmail.com"
+      }
+    ],
+    "returnPolicy": "3-day return for unused items",
+    "minimumOrderQuantity": 1,
+    "images": ["/binoculars.png"],
+    "thumbnail": "/binoculars.png"
   }
 ]
