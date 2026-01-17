@@ -467,5 +467,40 @@
     "minimumOrderQuantity": 1,
     "images": ["/answers.png "],
     "thumbnail": "/answers.png"
+  },
+  {
+    "id": 16,
+    "title": "Elroy's Confiscated Fan",
+    "description": "Amazing for cooling yourself down on a hot day! Equipped with 3 adjustable speeds, it is sold at the cheap price of just 999.99. Just make sure you don't play with it during class.",
+    "category": ["exclusive-items"],
+    "price": 999.99,
+    "discountPercentage": 0,
+    "rating": 3,
+    "stock": 0,
+    "tags": ["exclusive-items"],
+    "brand": "Elroy's Exclusive",
+    "warrantyInformation": "7 day warranty (unless confiscated by Ms.Buni)",
+    "shippingInformation": "In-school delivery",
+    "availabilityStatus": "Out of Stock",
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "This helped me cool down during cross country! After running (so-called 5 km), this fan is just what I needed!",
+        "date": "2026-01-04T018:41:02.053Z",
+        "reviewerName": "Interact Club",
+        "reviewerEmail": "interact.wms@gmail.com"
+      },
+      {
+        "rating": 1,
+        "comment": "This was really fun to play with during class, but there is no warranty if my teacher confiscated it. Huge waste of money if you can't play with it.",
+        "date": "2026-01-07T011:41:02.053Z",
+        "reviewerName": "Gelroy Oh",
+        "reviewerEmail": "gelroy.oh@x.dummyjson.com"
+      }
+    ],
+    "returnPolicy": "0-day return for unused items",
+    "minimumOrderQuantity": 1,
+    "images": ["/fan.jpg "],
+    "thumbnail": "/fan.jpg"
   }
 ]
