@@ -535,7 +535,7 @@
     ],
     "returnPolicy": "3-day return for unused items",
     "minimumOrderQuantity": 1,
-    "images": ["/binoculars.jpg"],
-    "thumbnail": "/binoculars.jpg"
+    "images": ["/binoculars.png"],
+    "thumbnail": "/binoculars.png"
   }
 ]
