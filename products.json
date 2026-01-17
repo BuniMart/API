@@ -500,8 +500,8 @@
     ],
     "returnPolicy": "0-day return for unused items",
     "minimumOrderQuantity": 1,
-    "images": ["/fan.jpeg "],
-    "thumbnail": "/fan.jpeg"
+    "images": ["/fan.jpg "],
+    "thumbnail": "/fan.jpg"
   },
   {
     "id": 17,
