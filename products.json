@@ -58,8 +58,8 @@
     ],
     "returnPolicy": "No return policy",
     "minimumOrderQuantity": 2,
-    "images": ["/binder.jpg"],
-    "thumbnail": "/binder.jpg"
+    "images": ["/binder.png"],
+    "thumbnail": "/binder.png"
   },
   {
     "id": 3,
@@ -89,8 +89,8 @@
     ],
     "returnPolicy": "7 days return policy",
     "minimumOrderQuantity": 1,
-    "images": ["/mechpencils.jpg"],
-    "thumbnail": "/mechpencils.jpg"
+    "images": ["/mechpencils.png"],
+    "thumbnail": "/mechpencils.png"
   },
   {
     "id": 4,
@@ -120,8 +120,8 @@
     ],
     "returnPolicy": "No return policy",
     "minimumOrderQuantity": 1,
-    "images": ["/schoolbag.jpg"],
-    "thumbnail": "/schoolbag.jpg"
+    "images": ["/schoolbag.png"],
+    "thumbnail": "/schoolbag.png"
   },
   {
     "id": 5,
@@ -151,8 +151,8 @@
     ],
     "returnPolicy": "No return policy",
     "minimumOrderQuantity": 1,
-    "images": ["/waterbottle.jpg"],
-    "thumbnail": "/waterbottle.jpg"
+    "images": ["/waterbottle.png"],
+    "thumbnail": "/waterbottle.png"
   },
   {
     "id": 6,
@@ -182,8 +182,8 @@
     ],
     "returnPolicy": "3 days return policy",
     "minimumOrderQuantity": 1,
-    "images": ["/pen.jpg"],
-    "thumbnail": "/pen.jpg"
+    "images": ["/pen.png"],
+    "thumbnail": "/pen.png"
   },
   {
     "id": 7,
@@ -213,8 +213,8 @@
     "returnPolicy": "1 minute return policy",
     "minimumOrderQuantity": 1,
     "maximumOrderQuantity": 1,
-    "images": ["/mixue.jpg"],
-    "thumbnail": "/mixue.jpg"
+    "images": ["/mixue.png"],
+    "thumbnail": "/mixue.png"
   },
   {
     "id": 8,
@@ -243,8 +243,8 @@
     ],
     "returnPolicy": "1 week return policy",
     "minimumOrderQuantity": 1,
-    "images": ["/marker.jpg"],
-    "thumbnail": "/marker.jpg"
+    "images": ["/marker.png"],
+    "thumbnail": "/marker.png"
   },
   {
     "id": 9,
@@ -273,8 +273,8 @@
     ],
     "returnPolicy": "1 week return policy",
     "minimumOrderQuantity": 3,
-    "images": ["/exercisebook.jpg"],
-    "thumbnail": "/exercisebook.jpg"
+    "images": ["/exercisebook.png"],
+    "thumbnail": "/exercisebook.png"
   },
   {
     "id": 10,
@@ -303,8 +303,8 @@
     ],
     "returnPolicy": "1 week return policy",
     "minimumOrderQuantity": 1,
-    "images": ["/drumsticks.jpg"],
-    "thumbnail": "/drumsticks.jpg"
+    "images": ["/drumsticks.png"],
+    "thumbnail": "/drumsticks.png"
   },
   {
     "id": 11,
@@ -340,8 +340,8 @@
     ],
     "returnPolicy": "1 week return policy",
     "minimumOrderQuantity": 1,
-    "images": ["/glasses.jpg"],
-    "thumbnail": "/glasses.jpg"
+    "images": ["/glasses.png"],
+    "thumbnail": "/glasses.png"
   },
   {
     "id": 12,
@@ -403,8 +403,8 @@
     ],
     "returnPolicy": "0-day return for unused items",
     "minimumOrderQuantity": 1,
-    "images": ["/eraserdust.jpg"],
-    "thumbnail": "/eraserdust.jpg"
+    "images": ["/eraserdust.png"],
+    "thumbnail": "/eraserdust.png"
   },
   {
     "id": 14,
