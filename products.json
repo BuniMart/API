@@ -11,7 +11,6 @@
     "tags": ["calculator", "used", "school"],
     "brand": "Casio",
     "sku": "STA-CAS-CAL-001",
-    "weight": 200,
     "dimensions": { "width": 7, "height": 16, "depth": 1.5 },
     "warrantyInformation": "1 month warranty",
     "shippingInformation": "Ships in 3-5 business days",
@@ -42,7 +41,6 @@
     "tags": ["file", "binder", "used"],
     "brand": "No Brand",
     "sku": "STA-FIL-BIN-002",
-    "weight": 300,
     "dimensions": { "width": 25, "height": 32, "depth": 4 },
     "warrantyInformation": "No warranty",
     "shippingInformation": "Ships in 3 days",
@@ -73,7 +71,6 @@
     "tags": ["pencil", "used", "writing"],
     "brand": "Pentel",
     "sku": "STA-PEN-MEC-003",
-    "weight": 50,
     "dimensions": { "width": 5, "height": 15, "depth": 1 },
     "warrantyInformation": "No warranty",
     "shippingInformation": "Ships in 2-4 business days",
@@ -104,7 +101,6 @@
     "tags": ["bag", "used", "school"],
     "brand": "Nike",
     "sku": "USE-BAG-SCH-004",
-    "weight": 700,
     "dimensions": { "width": 30, "height": 45, "depth": 15 },
     "warrantyInformation": "No warranty",
     "shippingInformation": "Ships in 5 days",
@@ -135,7 +131,6 @@
     "tags": ["bottle", "used", "eco-friendly"],
     "brand": "Tupperware",
     "sku": "USE-BOT-WAT-005",
-    "weight": 120,
     "dimensions": { "width": 7, "height": 20, "depth": 7 },
     "warrantyInformation": "No warranty",
     "shippingInformation": "Ships in 3-5 business days",
@@ -166,7 +161,6 @@
     "tags": ["pens", "used", "school"],
     "brand": "Faber-Castell",
     "sku": "STA-CAS-CAL-001",
-    "weight": 50,
     "dimensions": { "width": 7, "height": 25, "depth": 1.5 },
     "warrantyInformation": "1 month warranty",
     "shippingInformation": "Ships in 6-7 business days",
@@ -196,7 +190,6 @@
     "stock": 33,
     "tags": ["drinks", "reward"],
     "brand": "Mixue",
-    "weight": 300,
     "dimensions": { "width": 7, "height": 19, "depth": 1.5 },
     "warrantyInformation": "No warranty",
     "shippingInformation": "Immediate shipping",
@@ -227,7 +220,6 @@
     "stock": 50,
     "tags": "stationery",
     "brand": "Artline",
-    "weight": 200,
     "dimensions": { "width": 7, "height": 19, "depth": 1.5 },
     "warrantyInformation": "No warranty",
     "shippingInformation": "Shipping in 6-7 working days",
@@ -257,7 +249,6 @@
     "stock": 100,
     "tags": "stationery",
     "brand": "Wesley Exclusive",
-    "weight": 50,
     "dimensions": { "width": 7, "height": 19, "depth": 1.5 },
     "warrantyInformation": "No warranty",
     "shippingInformation": "Shipping in 2-3 working days",
@@ -278,36 +269,6 @@
   },
   {
     "id": 10,
-    "title": "Elroy's Exclusive Drumsticks",
-    "description": "Elroy's Exclusive drum sticks were molded under strict quality control standards from carefully selected wood materials and is renowned for their consistent high quality. Get this premium and exclusive drumsticks for only RM 1999!",
-    "category": ["exclusive-items"],
-    "price": 1999.99,
-    "discountPercentage": 0.00001,
-    "rating": 5,
-    "stock": 1,
-    "tags": ["exclusive-items"],
-    "brand": "Elroy Exclusive",
-    "weight": 100,
-    "dimensions": { "width": 7, "height": 19, "depth": 1.5 },
-    "warrantyInformation": "3 month warranty",
-    "shippingInformation": "Shipping in 4-5 working days",
-    "availabilityStatus": "In Stock",
-    "reviews": [
-      {
-        "rating": 5,
-        "comment": "Amazing drumsticks! Now I can shred on my drums and play (i mean use) it in school!",
-        "date": "2025-04-30T09:41:02.053Z",
-        "reviewerName": "Goh Jern Han",
-        "reviewerEmail": "goh.jern.han@x.dummyjson.com"
-      }
-    ],
-    "returnPolicy": "1 week return policy",
-    "minimumOrderQuantity": 1,
-    "images": ["/drumsticks.png"],
-    "thumbnail": "/drumsticks.png"
-  },
-  {
-    "id": 11,
     "title": "BuniMart Optic Glasses",
     "description": "BuniMart Optic Glasses are glasses designed for ease of use and all-day wearability. Made by the renouned Ms. Buni, and crafted from titanium.",
     "category": ["exclusive-items"],
@@ -317,7 +278,6 @@
     "stock": 10,
     "tags": ["exclusive-items"],
     "brand": "BuniMart Exclusive",
-    "weight": 100,
     "dimensions": { "width": 7, "height": 19, "depth": 1.5 },
     "warrantyInformation": "1 year warranty",
     "shippingInformation": "Shipping in 4-5 working days",
@@ -344,7 +304,7 @@
     "thumbnail": "/glasses.png"
   },
   {
-    "id": 12,
+    "id": 11,
     "title": "A Single Piece of Graph Paper",
     "description": "A single piece of standard A4 graph paper suitable for math, geometry and geometry dash sketches.",
     "category": ["stationery"],
@@ -372,7 +332,7 @@
     "thumbnail": "/graphpaper.jpg"
   },
   {
-    "id": 13,
+    "id": 12,
     "title": "Pack of a 100 individual pieces of eraser dust",
     "description": "A pile of carefully sculpted eraser dust, coloured with just the right hue and shade, and easily falls apart the second you touch it. Perfect for showing your peers, parents and teachers how hardworking you are.",
     "category": ["stationery", "used-items"],
@@ -407,7 +367,7 @@
     "thumbnail": "/eraserdust.png"
   },
   {
-    "id": 14,
+    "id": 13,
     "title": "Math Homework Answers",
     "description": "Contains the answers to all the homework you ever recieved in high school. Will be delivered after you leave school on graduation day.",
     "category": ["exclusive-items"],
@@ -435,42 +395,7 @@
     "thumbnail": "/answers.png"
   },
   {
-    "id": 15,
-    "title": "Elroy's Confiscated Fan",
-    "description": "Amazing for cooling yourself down on a hot day! Equipped with 3 adjustable speeds, it is sold at the cheap price of just 999.99. Just make sure you don't play with it during class.",
-    "category": ["exclusive-items"],
-    "price": 999.99,
-    "discountPercentage": 0,
-    "rating": 3,
-    "stock": 0,
-    "tags": ["exclusive-items"],
-    "brand": "Elroy's Exclusive",
-    "warrantyInformation": "7 day warranty (unless confiscated by Ms.Buni)",
-    "shippingInformation": "In-school delivery",
-    "availabilityStatus": "Out of Stock",
-    "reviews": [
-      {
-        "rating": 5,
-        "comment": "This helped me cool down during cross country! After running (so-called 5 km), this fan is just what I needed!",
-        "date": "2026-01-04T018:41:02.053Z",
-        "reviewerName": "Interact Club",
-        "reviewerEmail": "interact.wms@gmail.com"
-      },
-      {
-        "rating": 1,
-        "comment": "This was really fun to play with during class, but there is no warranty if my teacher confiscated it. Huge waste of money if you can't play with it.",
-        "date": "2026-01-07T011:41:02.053Z",
-        "reviewerName": "Gelroy Oh",
-        "reviewerEmail": "gelroy.oh@x.dummyjson.com"
-      }
-    ],
-    "returnPolicy": "0-day return for unused items",
-    "minimumOrderQuantity": 1,
-    "images": ["/fan.jpg "],
-    "thumbnail": "/fan.jpg"
-  },
-  {
-    "id": 16,
+    "id": 14,
     "title": "BuniMart Binoculars",
     "description": "BuniMart is launching its very own binoculars! Equipped with 5x, 10x and 50x zoom, you will never struggle with looking at the whiteboard again! At only 899, you will remove the worry of forgetting your glasses!",
     "category": ["exclusive-items"],
@@ -505,7 +430,42 @@
     "thumbnail": "/binoculars.png"
   },
   {
-    "id": 17,
+    "id": 15,
+    "title": "Pack of 4 Animals",
+    "description": "This pack of 4 plastic animals is sure to improve your science project grade to an A! And, for a limited time, get four for the price of three!",
+    "category": ["exclusive-items"],
+    "price": 755.52,
+    "discountPercentage": 25,
+    "rating": 4.5,
+    "stock": 10,
+    "tags": ["exclusive-items"],
+    "brand": "BuniMart Exclusive",
+    "warrantyInformation": "1 month warranty",
+    "shippingInformation": "Delivery to 7 Joshua (relocated 8E)",
+    "availabilityStatus": "In Stock",
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "This was very fun to play with in class! I would definitely recommend this!",
+        "date": "2026-01-04T018:41:02.053Z",
+        "reviewerName": "Dogman",
+        "reviewerEmail": "boba.z@gmail.com"
+      },
+      {
+        "rating": 4,
+        "comment": "This was very fun to steal from my twin! I would strongly advise you to get this from Dogman!",
+        "date": "2026-01-17T018:41:02.053Z",
+        "reviewerName": "Dogman Twin",
+        "reviewerEmail": "isaac.f@gmail.com"
+      }
+    ],
+    "returnPolicy": "3-day return for unused items",
+    "minimumOrderQuantity": 1,
+    "images": ["/animals.png"],
+    "thumbnail": "/animals.png"
+  },
+  {
+    "id": 16,
     "title": "Save BuniMart!",
     "description": "Dawn Lim Sim Zheng of 10 Genesis has hacked BuniMart. RM 99999999999999999999999999999999999999999999999999 (not too overpriced for BuniMart) to get back BuniMart or else it will be destroyed forever. This message will self-destruct in 3 days.",
     "category": [
