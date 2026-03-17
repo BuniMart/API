@@ -478,7 +478,15 @@
     "warrantyInformation": "1 month warranty",
     "shippingInformation": "Delivery to 7 Joshua",
     "availabilityStatus": "In Stock",
-    "reviews": [],
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "This geometry set is great! Now I can finally construct a line segment and a perpendicular line with a compass!",
+        "date": "2026-01-04T018:41:02.053Z",
+        "reviewerName": "Lien Jim",
+        "reviewerEmail": "lien.Jim@gmail.com"
+      }
+    ],
     "returnPolicy": "3-day return for unused items",
     "minimumOrderQuantity": 1,
     "images": ["/geometry.png"],
