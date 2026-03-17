@@ -466,6 +466,26 @@
   },
   {
     "id": 16,
+    "title": "Used Staedtler Noris Geometry Math Set",
+    "description": "These essential tools (used) help students perform various calculations and measurements, includes compass with easy-to-grip top provides firm grip for exact drawings. Set includes compass, protractor, eraser, pencil, rulers and more!",
+    "category": ["exclusive-items", "used-items"],
+    "price": 999.99,
+    "discountPercentage": 25,
+    "rating": 4,
+    "stock": 10,
+    "tags": ["exclusive-items", "used-items"],
+    "brand": "BuniMart Exclusive",
+    "warrantyInformation": "1 month warranty",
+    "shippingInformation": "Delivery to 7 Joshua",
+    "availabilityStatus": "In Stock",
+    "reviews": [],
+    "returnPolicy": "3-day return for unused items",
+    "minimumOrderQuantity": 1,
+    "images": ["/geometry.png"],
+    "thumbnail": "/geometry.png"
+  },
+  {
+    "id": 17,
     "title": "Save BuniMart!",
     "description": "Dawn Lim Sim Zheng of 10 Genesis has hacked BuniMart. RM 99999999999999999999999999999999999999999999999999 (not too overpriced for BuniMart) to get back BuniMart or else it will be destroyed forever. This message will self-destruct in 3 days.",
     "category": [
